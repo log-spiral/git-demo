@@ -8,4 +8,4 @@ hello json! hello git!
 hello json! hello git!
 hello json! hello git!
 hello json! hello git! master modify
-hello json! hello git!
+hello json! hello git! hof-fix test
